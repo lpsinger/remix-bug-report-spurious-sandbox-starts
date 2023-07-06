@@ -11,6 +11,8 @@ remix-architect-app
 @plugins
 plugin-remix
   src plugin-remix.js
+plugin-example
+  src plugin-example.js
 
 # @aws
 # profile default
